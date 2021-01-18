@@ -8,6 +8,6 @@
 
 [The Cointelligence Guide to Decentralized Finance](https://www.cointelligence.com/content/the-cointelligence-guide-to-decentralized-finance-defi/)
 
-[How To DeFi}(https://landing.coingecko.com/how-to-defi/)
+[How To DeFi](https://landing.coingecko.com/how-to-defi/)
 
 [Mastering DeFi: Practical guide for beginners and advanced](https://www.amazon.com/dp/B08HNCJJQL)
